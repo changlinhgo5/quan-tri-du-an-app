@@ -1,0 +1,52 @@
+{
+  "toeic": {
+    "id": "63633feb6b8d42947db88252",
+    "appNameHiHi": "TOEIC Cô Mai Phương",
+    "verApp": "Version (1.0.0+1)@toeicmp2023",
+    "isToeicApp": true,
+    "openLoginGoogle": false,
+    "openLoginApple": false,
+    "openLoginFacebook": false,
+    "openRoadMap": false,
+    "isOpenHomeScreenAfterLogin": true,
+    "isOpenCheckPurchasedCouse": true,
+    "apiEndPoint": "https://toeic-dot-comaiphuong-edu.appspot.com/api/app",
+    "ios": {
+        "name": "TOEIC Cô Mai Phương",
+        "packageName": "com.youredu.mptoeic",
+        "appleId": "6447718971",
+        "teamId": "HA45PLM3S3"
+      },
+    "android": {
+        "name": "TOEIC Cô Mai Phương",
+        "packageName": "com.youredu.mptoeic",
+        "storeId": "com.youredu.mptoeic",
+        "keyAlias": "com.youredu.estudyme"
+    }
+},
+  "ielts": {
+    "id": "63633feb6b8d42947db88252",
+    "appNameHiHi": "IELTS LYDIA",
+    "verApp": "Version (1.0.0+1)@ieltsmp2023",
+    "isToeicApp":false,
+    "openLoginGoogle":false,
+    "openLoginApple":false,
+    "openLoginFacebook":false,
+    "openRoadMap":false,
+    "isOpenHomeScreenAfterLogin":false,
+    "isOpenCheckPurchasedCouse":false,
+    "apiEndPoint":"https://v1-dot-ielts-lydia.appspot.com/api/app",
+    "ios": {
+      "name": "IELTS LYDIA",
+      "packageName": "com.youredu.mpielts",
+        "appleId": "6447718971",
+        "teamId": "HA45PLM3S3"
+    },
+    "android": {
+      "name": "IELTS LYDIA",
+      "packageName": "com.youredu.mpielts",
+      "storeId": "com.youredu.mptoeic",
+      "keyAlias": "com.youredu.estudyme"
+    }
+  }
+}

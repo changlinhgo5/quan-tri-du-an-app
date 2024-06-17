@@ -1,0 +1,80 @@
+{
+  "identifier" : "8468AA16",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "59.99",
+      "familyShareable" : false,
+      "internalID" : "6448184591",
+      "localizations" : [
+        {
+          "description" : "Flash Card Pro ",
+          "displayName" : "Flash Card Pro ",
+          "locale" : "vi"
+        }
+      ],
+      "productID" : "4855799341907968",
+      "referenceName" : "Flashcard Pro Production ",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "59.99",
+      "familyShareable" : false,
+      "internalID" : "6448088951",
+      "localizations" : [
+        {
+          "description" : "Flashcard Pro",
+          "displayName" : "Flashcard Pro",
+          "locale" : "vi"
+        }
+      ],
+      "productID" : "5405304841830400",
+      "referenceName" : "Flashcard Pro Staging",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "79.99",
+      "familyShareable" : false,
+      "internalID" : "6448184521",
+      "localizations" : [
+        {
+          "description" : "Luyện Thi TOEIC Nói Viết",
+          "displayName" : "Luyện Thi TOEIC Nói Viết",
+          "locale" : "vi"
+        }
+      ],
+      "productID" : "5242361951027200",
+      "referenceName" : "Luyện Thi TOEIC Nói Viết Production ",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "79.99",
+      "familyShareable" : false,
+      "internalID" : "6448084880",
+      "localizations" : [
+        {
+          "description" : "Luyện Thi TOEIC Nói Viết",
+          "displayName" : "Luyện Thi TOEIC Nói Viết",
+          "locale" : "vi"
+        }
+      ],
+      "productID" : "5737548680790016",
+      "referenceName" : "Luyện Thi TOEIC Nói Viết Staging ",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6447718971",
+    "_developerTeamID" : "HA45PLM3S3",
+    "_lastSynchronizedDate" : 703775863.27514601
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}

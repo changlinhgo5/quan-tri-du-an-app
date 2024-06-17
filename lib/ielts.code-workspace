@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../es_game"
+		},
+		{
+			"path": "../../es_models"
+		}
+	],
+	"settings": {}
+}

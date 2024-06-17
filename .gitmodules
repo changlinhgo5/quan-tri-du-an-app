@@ -1,0 +1,3 @@
+[submodule "packages/games"]
+	path = packages/games
+	url = https://TranThanhPu@bitbucket.org/ksdevs/elearning-app-game.git

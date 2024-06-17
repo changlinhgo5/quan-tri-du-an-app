@@ -1,0 +1,35 @@
+POST   https://a2b5-27-72-61-221.ap.ngrok.io/api/get-card-by-topic-id HTTP/1.1
+content-type: application/json
+
+{
+    "topicId": "6417e46296e77c20777ea5da",
+    "includeSkill": true,
+    "apiVer": 2
+}
+###
+POST    https://toeic-dot-comaiphuong-edu.appspot.com/login?account=quan003&password=1&token=LAQaifUvHUWMCln8ve0VmnVaMCQrKIZS HTTP/1.1
+content-type: application/json
+
+
+###
+POST  https://test-toeic.online:1443/api/get-card-by-topic-id
+content-type: application/json
+
+{"topicId": "6418161096e77c20777ea606", "includeSkill": true, "apiVer": 2}
+
+###
+GET  https://50cf-27-72-61-221.ap.ngrok.io/api/sync-app-card-study-data?topicId=6417e46296e77c20777ea5da&oldAccountId=admin&skillId=6361df52fac23229c1e617b8&useLatest=true&lastUpdate=0&apiVer=2
+content-type: application/json
+
+###
+POST https://v1-dot-ielts-lydia.appspot.com/api/app/get-card-by-topic-id HTTP/1.1
+content-type: application/json
+
+{
+    "topicId": 5460972449824768,
+    "courseId": 5112644562321408,
+    "accessToken": "eWDJ00DceI2yQyUDUqD_hg",
+    "token": "LAQaifUvHUWMCln8ve0VmnVaMCQrKIZS"
+}
+
+
